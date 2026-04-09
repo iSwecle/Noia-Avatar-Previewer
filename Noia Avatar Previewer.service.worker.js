@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1775725949|3003233645';
+const CACHE_VERSION = '1775726275|3328611555';
 /** @type {string} */
 const CACHE_PREFIX = 'noia_avatar_prev-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
