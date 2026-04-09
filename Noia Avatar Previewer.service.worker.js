@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1775726275|3328611555';
+const CACHE_VERSION = '1775726418|3471709683';
 /** @type {string} */
-const CACHE_PREFIX = 'noia_avatar_prev-sw-cache-';
+const CACHE_PREFIX = 'Noia Avatar Prev-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'Noia Avatar Previewer.offline.html';
